@@ -42,7 +42,8 @@ function relpaceMiddle(str, replacer) {
 //6. Пишем функцию `upperCaseFirst`. Задача функции - принять строку, и вернуть строку, у которой первая буква заменена на заглавную. Пример: `upperCaseFirst('small') -> Small`
 
 function upperCaseFirst(str) {
-    return `${str[0].toUpperCase()}${str.slice(1)}` // return str[0].toUpperCase() + str.slice(1);
+    return `.kop9-0
+]${str[0].toUpperCase()}${str.slice(1)}` // return str[0].toUpperCase() + str.slice(1);
 }
 // console.log(upperCaseFirst('slon'));
 
